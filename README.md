@@ -67,7 +67,7 @@
 Особливість методології: ступінь формалізації може змінюватися в залежності від потреб проекту. Ітеративна модель. В кінці кожної ітерації (2 - 6 тижнів) команда досягає певних цілей, отримує проміжну, але функціональну версію кінцевого продукту.
 
 Ітерації та етапи розвитку:
-![Ітерації та етапи розвитку](https://www.google.com.ua/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwisyJLZ0OfkAhVowsQBHX5TDqIQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3D%252Furl%253Fsa%253Di%2526source%253Dimages%2526cd%253D%2526ved%253D2ahUKEwiO-I_X0OfkAhV-wcQBHUXkCFgQjRx6BAgBEAQ%2526url%253Dhttps%25253A%25252F%25252Fru.wikipedia.org%25252Fwiki%25252FRational_Unified_Process%2526psig%253DAOvVaw0zocCjPQ1aA6Rsy_67zjF2%2526ust%253D1569351666188847%26psig%3DAOvVaw0zocCjPQ1aA6Rsy_67zjF2%26ust%3D1569351666188847&psig=AOvVaw0zocCjPQ1aA6Rsy_67zjF2&ust=1569351666188847)
+![Ітерації та етапи розвитку](/RUP_process.png)
 
 **Crystal Clear методология**
 
