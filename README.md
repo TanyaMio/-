@@ -87,9 +87,9 @@
 
 **Спіральна модель**
 
-Це метод життєвого циклу розробки систем ([SDLC](https://searchsoftwarequality.techtarget.com/definition/systems-development-life-cycle)), який використовується для [управління ризиками,](https://searchcompliance.techtarget.com/definition/risk-management) який поєднує [ітераційну](https://searchsoftwarequality.techtarget.com/definition/iterative-development) модель процесу [розвитку](https://searchsoftwarequality.techtarget.com/definition/iterative-development).
+Це метод життєвого циклу розробки систем SDLC, який використовується для управління ризиками,який поєднує ітераційну модель процесу розвитку.
 
-Кожна петля спіралі є фазою в процесі розробки програмного забезпечення. Радіус спіралі показує вартість проекту, а [кутовий градус](https://whatis.techtarget.com/definition/angular-degree-deg-or) представляє прогрес, досягнутий у поточній фазі
+Кожна петля спіралі є фазою в процесі розробки програмного забезпечення. Радіус спіралі показує вартість проекту, а кутовий градус представляє прогрес, досягнутий у поточній фазі
 
 Використання спіральної моделі доречне у таких проектах:
 
